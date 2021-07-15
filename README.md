@@ -1,2 +1,2 @@
 ### Demo Link
-https://practical-khorana-f2a2c1.netlify.app
+https://react-food-order-app-a.herokuapp.com/
